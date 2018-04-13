@@ -18,3 +18,6 @@ suited to the task.)
 The model was trained using stochastic gradient decent with mini-batches of size 100 and initial
 learning rate of 0.1 which was exponentially decreased down to .000001 with decay factor of
 1.00004. Also momentum was used with initial value of .5 which was increased up to 0.7. Dropout with probability of 0.5 was applied to both the generator and discriminator."
+
+
+Original code base extrated from -> https://github.com/eriklindernoren/Keras-GAN
