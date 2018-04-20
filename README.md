@@ -22,4 +22,4 @@ learning rate of 0.1 which was exponentially decreased down to .000001 with deca
 
 Original code base extrated from -> https://github.com/eriklindernoren/Keras-GAN
 
-Update - cgan_v2.py file presents a more closer implementation to that of the paper
+Update - cgan_v2.py file presents a more closer implementation to that of the paper. But the accuracy is low. 
